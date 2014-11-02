@@ -8,5 +8,5 @@
     <h4> the picture belwo shows my home town tripoli</h4>
     <img src=http://www.alnowrastourism.com/images/gallery/tripoli1.jpg>
     <h5> this is me one year ago </h5>
-    <img src=https://www.facebook.com/photo.php?fbid=474699026005041&set=a.102737993201148.3460.100003948426950&type=1&theater>
+    <img src=https://www.facebook.com/photo.php?fbid=474699026005041&set=a.102737993201148.3460.100003948426950&type=1&theater.jpg>
     <p> this picture was taken during the graduation ceremony of UWC atlantic college.<p> it was one of the greatest moment of my life</p>

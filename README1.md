@@ -1,12 +1,10 @@
 <html>
 <link rel="stylesheet" href="mystyle.css" type="text/css">
-<head>
 <style>
 h1{ color: blue;
     front size: 28px
   }
     </style>
-    </head>
     
     <h1> overview about hakeem</h1>
     <p> my favourt sport is MMA and clmibing.<p> I do climbing 4 times a week</p>

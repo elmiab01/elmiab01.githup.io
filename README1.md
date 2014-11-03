@@ -7,7 +7,7 @@ h1{ color: blue;
   }
     </style>
     </head>
-    <body>
+    
     <h1> overview about hakeem</h1>
     <p> my favourt sport is MMA and clmibing.<p> I do climbing 4 times a week</p>
     <h2> my favourt type of music</h2>
@@ -20,5 +20,5 @@ h1{ color: blue;
     <img src=http://scontent-a.cdninstagram.com/hphotos-xfa1/t51.2885-15/10570040_690754414338620_1422221034_a.jpg>
     <p> this picture was taken while I was having my paino lesson online </p>
     <h5> thank you </h5>
-    </body>
+    
     

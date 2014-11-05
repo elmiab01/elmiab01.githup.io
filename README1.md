@@ -1,7 +1,6 @@
 <html>
 <link rel="stylesheet" href="mystyle.css" type="text/css">
 
-    
     <h1> overview about hakeem</h1>
     <p> my favourt sport is MMA and clmibing.<p> I do climbing 4 times a week</p>
     <h2> my favourt type of music</h2>

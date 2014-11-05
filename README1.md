@@ -1,7 +1,6 @@
 <html>
-<
 
-    <h1> overview about hakeem</h1>
+<h1> overview about hakeem</h1>
     <p> my favourt sport is MMA and clmibing.<p> I do climbing 4 times a week</p>
     <h2> my favourt type of music</h2>
     <p> I love jazz and classic music.<p> I go to jazz concern every year back home in libya. my grandmother she used to has a jazz band and she is the one who show me the jazz world.</p>
